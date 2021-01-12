@@ -1,2 +1,2 @@
 # newdemorepo
-newdemo repository
+newdemo repository for studying about git
